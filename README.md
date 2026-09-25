@@ -25,7 +25,7 @@ Backend Developer focused on **APIs, automation, and bot systems**. I build scal
 ## 📫 Reach Me
 
 - Telegram: [@MLBOR](https://t.me/MLBOR)
-- LinkedIn: *(add your link here)*
+- LinkedIn: [Hasan Bakhsh](https://www.linkedin.com/in/hasan-bakhsh-8ab064362)
 
 ---
 📍 Saudi Arabia
