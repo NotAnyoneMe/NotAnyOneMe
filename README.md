@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Hasan Bakhsh 👋
 
-<!--
-**NotAnyoneMe/NotAnyOneMe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer focused on **APIs, automation, and bot systems**. I build scalable backend tools, integrate complex services, and design custom automation workflows that save time and reduce manual work.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages & Frameworks**
+`Python` `FastAPI`
+
+**Database**
+`PostgreSQL`
+
+**What I work with**
+- REST API design & development (FastAPI)
+- Database design & optimization (PostgreSQL)
+- Python scripting & task automation
+- API integrations using `requests`
+- Bot systems & automation workflows
+
+## 🚀 Featured Project
+
+**[ProxyChecker](https://github.com/NotAnyoneMe/ProxyChecker)** — HTTP, SOCKS4, SOCKS5 proxy checker with GUI
+`Python` · ⭐ 32 · 🍴 6
+
+## 📫 Reach Me
+
+- Telegram: [@MLBOR](https://t.me/MLBOR)
+- LinkedIn: *(add your link here)*
+
+---
+📍 Saudi Arabia
