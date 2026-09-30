@@ -20,7 +20,7 @@ Backend Developer focused on **APIs, automation, and bot systems**. I build scal
 ## 🚀 Featured Project
 
 **[ProxyChecker](https://github.com/NotAnyoneMe/ProxyChecker)** — HTTP, SOCKS4, SOCKS5 proxy checker with GUI
-`Python` · ⭐ 32 · 🍴 6
+`Python` · ⭐ 46 · 🍴 9
 
 ## 📫 Reach Me
 
